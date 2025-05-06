@@ -2,3 +2,15 @@
     --background-color: rgba(166, 5, 5, 0.889);
     --text-color: rgb(212, 209, 209);
 }
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
