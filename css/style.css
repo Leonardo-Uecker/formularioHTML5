@@ -24,6 +24,7 @@ header{
     border-bottom: 2px solid var(--text-color);
     position: absolute;
     width: 100%;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
